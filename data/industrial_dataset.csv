@@ -1,0 +1,41 @@
+product,material,bore_mm,outer_diameter_mm,width_mm,features
+Ball Bearing,Chrome Steel,20,47,14,"Inner ring, outer ring, sealed"
+Deep Groove Bearing,Chrome Steel,25,52,15,"Inner ring, outer ring, balls"
+Hex Bolt,Stainless Steel,0,10,50,"Hex head, threaded shaft"
+Hex Nut,Stainless Steel,10,17,8,"Hexagonal body, central hole"
+Steel Gear,Alloy Steel,15,60,12,"Central hole, external teeth"
+Flat Washer,Stainless Steel,10,25,2,"Central hole, flat circular body"
+Spring Washer,Steel,10,20,3,"Split ring, spring structure"
+Flange,Carbon Steel,20,80,10,"Circular plate, bolt holes"
+Pipe Coupling,Stainless Steel,20,35,40,"Cylindrical body, threaded ends"
+Pulley,Cast Iron,15,100,25,"Grooved wheel, central bore"
+Shaft,Alloy Steel,20,40,150,"Cylindrical shaft, stepped ends"
+Spacer,Aluminium,10,20,15,Cylindrical hollow body
+Retaining Ring,Spring Steel,15,30,2,Split circular ring
+O Ring,Rubber,10,20,3,Circular sealing ring
+Metal Bracket,Mild Steel,0,50,40,"L-shaped body, mounting holes"
+Steel Pin,Stainless Steel,5,10,30,Solid cylindrical pin
+Dowel Pin,Hardened Steel,6,12,25,Smooth cylindrical body
+Sprocket,Alloy Steel,15,80,10,"Central bore, chain teeth"
+V Belt Pulley,Cast Iron,20,120,30,"V-shaped grooves, central bore"
+Bearing Housing,Cast Iron,25,100,50,"Housing body, mounting holes"
+Metal Clamp,Stainless Steel,0,40,20,"Clamping arms, screw"
+Pipe Elbow,Stainless Steel,25,40,50,90 degree curved pipe
+Tee Joint,PVC,25,50,50,Three connected openings
+Metal Cap,Aluminium,0,30,20,Cylindrical closed end
+Threaded Rod,Stainless Steel,0,12,100,External threads
+Lead Screw,Alloy Steel,10,25,100,"Helical thread, cylindrical shaft"
+Metal Hinge,Stainless Steel,0,30,50,"Two leaves, central pin"
+Door Handle,Aluminium,0,30,120,"Curved grip, mounting base"
+Gear Shaft,Alloy Steel,15,45,120,"Gear teeth, stepped shaft"
+Metal Disc,Aluminium,10,80,8,"Flat circular plate, central hole"
+Flange Bearing,Chrome Steel,20,65,25,"Flange, bearing rings"
+Hex Socket Screw,Stainless Steel,0,8,35,"Socket head, threaded shaft"
+Lock Washer,Spring Steel,8,18,2,"Split ring, locking edges"
+Metal Sleeve,Brass,12,25,40,Hollow cylindrical body
+Cylinder Piston,Aluminium,0,50,60,"Circular piston head, rod"
+Nozzle,Brass,5,20,35,"Tapered body, narrow opening"
+Metal Valve,Stainless Steel,15,50,70,"Valve body, inlet and outlet"
+Pipe Reducer,Stainless Steel,30,50,40,"Conical transition, two openings"
+Metal Coupler,Steel,15,35,45,Cylindrical connector
+Industrial Gearbox,Cast Iron,20,150,100,"Housing, shafts, mounting points"
